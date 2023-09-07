@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ugalo\\OneDrive\\Рабочий стол\\Учеба\\C#9\\Task62\\Task62.csproj": {}
+    "C:\\Users\\ugalo\\OneDrive\\Рабочий стол\\Учеба\\C#9\\Task63\\Task63.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ugalo\\OneDrive\\Рабочий стол\\Учеба\\C#9\\Task62\\Task62.csproj": {
+    "C:\\Users\\ugalo\\OneDrive\\Рабочий стол\\Учеба\\C#9\\Task63\\Task63.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ugalo\\OneDrive\\Рабочий стол\\Учеба\\C#9\\Task62\\Task62.csproj",
-        "projectName": "Task62",
-        "projectPath": "C:\\Users\\ugalo\\OneDrive\\Рабочий стол\\Учеба\\C#9\\Task62\\Task62.csproj",
+        "projectUniqueName": "C:\\Users\\ugalo\\OneDrive\\Рабочий стол\\Учеба\\C#9\\Task63\\Task63.csproj",
+        "projectName": "Task63",
+        "projectPath": "C:\\Users\\ugalo\\OneDrive\\Рабочий стол\\Учеба\\C#9\\Task63\\Task63.csproj",
         "packagesPath": "C:\\Users\\ugalo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ugalo\\OneDrive\\Рабочий стол\\Учеба\\C#9\\Task62\\obj\\",
+        "outputPath": "C:\\Users\\ugalo\\OneDrive\\Рабочий стол\\Учеба\\C#9\\Task63\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ugalo\\AppData\\Roaming\\NuGet\\NuGet.Config"
