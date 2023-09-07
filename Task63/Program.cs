@@ -5,8 +5,11 @@
 
 Console.WriteLine("Введите натуральное число");
 int number = Convert.ToInt32(Console.ReadLine());
-if (number < 1)
-{ Console.WriteLine("Некорректный ввод!"); return; }
+if (number < 1){
+    Console.WriteLine("Некорректный ввод");
+    return; 
+}
+Console.WriteLine("Введите первое число");
 NaturalNumbers(number);
 
 void NaturalNumbers(int num)
