@@ -5,7 +5,8 @@
 
 Console.WriteLine("Введите натуральное число");
 int number = Convert.ToInt32(Console.ReadLine());
-if (number < 1){
+if (number < 1)
+{
     Console.WriteLine("Некорректный ввод");
     return; 
 }
