@@ -13,6 +13,7 @@ if (numberB < 0) {
 Console.WriteLine("Это число не подходит, введите число большее или равное 0");
 return;
 }
+
 int PowNum(int numA, int numB) 
 {
     if (numB == 0) return 1;

@@ -8,13 +8,15 @@ if (number < 1)
     Console.WriteLine("Некорректный ввод");
     return;
 }
-Console.Write($"N = {number} -> '");
+
+Console.Write($"N = {number} -> ");
 NaturalNumbers(number);
-// Console.Write($" N = {number} -> ");
+
 void NaturalNumbers(int num)
 {
     if (num == 0) return;
-    Console.Write($"{num} ");
+    Console.Write($"{num}");
+    if (num != 1) Console.Write(", ");
     NaturalNumbers(num - 1);
+
 }
-Console.Write("'");
